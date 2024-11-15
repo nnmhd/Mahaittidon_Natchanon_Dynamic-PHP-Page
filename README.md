@@ -1,6 +1,6 @@
-# simpson_orgchart
+# The Simpson Orgchart
 
-This project, **simpson_orgchart**, demonstrates the integration of SQL and PHP to dynamically render data onto a web page. It's an assignment for practicing back-end and front-end development skills, created by a Fanshawe IDP student—Nate Mahaittidon.
+This project, **The Simpson Orgchart**, demonstrates the integration of SQL and PHP to dynamically render data onto a web page. It's an assignment for practicing back-end and front-end development skills, created by a Fanshawe IDP student—Nate Mahaittidon.
 
 ## Project Overview
 
